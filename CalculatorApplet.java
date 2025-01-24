@@ -2,6 +2,10 @@ import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.*;
 
+/*
+ <applet code="CalculatorApplet.java" width="100" height="100">
+ </applet>
+ */
 public class CalculatorApplet extends Applet implements ActionListener {
     TextField num1, num2, result;
     Button add, subtract, multiply, divide;

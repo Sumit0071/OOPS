@@ -1,6 +1,10 @@
 import java.applet.Applet;
 import java.awt.*;
 
+/*
+ <applet code="CalculatorApplet.java" width="100" height="100">
+ </applet>
+ */
 @SuppressWarnings("removal")
 public class DrawShapesApplet extends Applet {
     @Override
